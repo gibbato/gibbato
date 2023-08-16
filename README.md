@@ -2,6 +2,8 @@
 
 <img align="left" wicth="47%" src="https://github-readme-stats.vercel.app/api?username=gibbato&show_icons=true&theme=radical" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
