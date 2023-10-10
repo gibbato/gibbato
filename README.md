@@ -1,6 +1,6 @@
 # Hi there, I'm Michael! 👋🏼
 
-<p>I am a third year computer science student at Cal State LA</p>
+<p>I am a computer science student at Cal State LA</p>
 <p>  Full Stack Engineer</p>
 <p>  LA Sports fan</p>
 
