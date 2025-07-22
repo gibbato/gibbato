@@ -1,8 +1,8 @@
 # Hi there, I'm Michael! 👋🏼
 
-<p>I am a computer science student at Cal State LA</p>
-<p>  Full Stack Engineer</p>
-<p>  LA Sports fan</p>
+<p>I am a computer science graduate from Cal State LA</p>
+<p>  Professional Network Engineer and aspiring Full Stack Engineer</p>
+<p>  LA Sports fan. Yorkshire Terrier enthusiast</p>
 
 <img align="left" wicth="47%" src="https://github-readme-stats.vercel.app/api?username=gibbato&show_icons=true&theme=radical" />
 
